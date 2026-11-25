@@ -1,2 +1,3 @@
-# .github
-public facing gh landing page
+# C What We Do
+
+# This is the repo for all of our management stuffs
